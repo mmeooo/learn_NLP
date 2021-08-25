@@ -1,5 +1,6 @@
 # test_NLP
 
+```
 1. 정보(데이터)단계
 dropna: info(), describe()
 fillna, replace : describe(), value_counts()
@@ -17,3 +18,4 @@ check score
 pickle :dump, load
 recive data
 apply prediction
+```
